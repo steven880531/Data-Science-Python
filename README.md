@@ -11,4 +11,4 @@ Python 程式設計 | 世新大學 2020 春季班上課共筆（講師）
 https://colab.research.google.com/drive/1mUZrfVTsL6kR4PX41fCeDzEerBfeJe5-
 
 發問處（講師）
-https://www.sli.do/:X598
+https://www.sli.do/ ：X598

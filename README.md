@@ -12,3 +12,8 @@ https://colab.research.google.com/drive/1mUZrfVTsL6kR4PX41fCeDzEerBfeJe5-
 
 發問處（講師）
 https://www.sli.do/ ：X598
+
+—————————————————————————————————————————————————————————————
+
+【分組之習題講解】CH9：其他檔案與異常處理
+https://youtu.be/jiBbaYWBurg
